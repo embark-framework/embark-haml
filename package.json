@@ -1,0 +1,14 @@
+{
+  "name": "embark-haml",
+  "version": "1.0.0",
+  "description": "Embark plugin to support haml templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iuri Matias <iuri.matias@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "haml": "^0.4.3"
+  }
+}
